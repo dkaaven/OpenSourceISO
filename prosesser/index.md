@@ -1,6 +1,12 @@
 # Prosesser
 Dette kapitlet dekker den grunnleggende strukturen av prosesser og forklarer formålet med hver av dem.
 
+## Prosesshieraki
+* [Forretningsprosesser](#-Forretningsprosesser)
+  * Hovedprosess
+    * Delprosess
+
+
 ## Forretningsprosesser
 Det finnes tre primære forretningsprosesser for et grunnleggende kvalitetsstyringssystem (QMS):
 
