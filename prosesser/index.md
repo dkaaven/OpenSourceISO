@@ -2,9 +2,9 @@
 Dette kapitlet dekker den grunnleggende strukturen av prosesser og forklarer formålet med hver av dem.
 
 ## Prosesshieraki
-* [Forretningsprosesser](#-Forretningsprosesser)
-  * Hovedprosess
-    * Delprosess
+* [Forretningsprosesser](#forretningsprosesser)
+  * [Hovedprosesser](#hovedprosesser)
+    * [Delprosesser](#delprosesser)
 
 
 ## Forretningsprosesser
@@ -19,3 +19,8 @@ Disse er våre verdiskapende prosesser som viser kundereisen gjennom systemet v�
 ### 3. Støtteprosesser
 Støtteprosesser gir essensiell hjelp til kjerneprosessene, og sikrer smidig drift og overholdelse av standarder. De inkluderer aktiviteter som personalledelse, IT-støtte og vedlikehold, som letter den samlede effektiviteten i organisasjonen.
 
+## Hovedprosesser
+Under hver forretningsprosess finner man et utvalg kjerneprosesser. Disse er overgripende prosesser og har mål og strategi som del av sitt arbeid.
+
+## Delprosesser
+Dette er beskrivende prosesser som ligger under hver hovedprosess. De går i detalj på hva vi gjør.
