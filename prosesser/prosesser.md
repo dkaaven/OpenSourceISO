@@ -1,4 +1,4 @@
-# Prosesser
+# Overgripende beskrivelse av prosesser
 Dette kapitlet dekker den grunnleggende strukturen av prosesser og forklarer formålet med hver av dem.
 
 ## Prosesshieraki
