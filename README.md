@@ -2,7 +2,7 @@
 Dette er et prosjekt for å hjelpe til med å sette opp et grunnleggende system for implementering av ISO 9001.
 
 ## Navigasjon
-* [Prosesser](https://github.com/dkaaven/OpenSourceISO/prosesser)
+* [Prosesser](https://github.com/dkaaven/OpenSourceISO/tree/main/prosesser))
 
 
 
