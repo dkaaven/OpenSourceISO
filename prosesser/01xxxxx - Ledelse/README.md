@@ -16,4 +16,4 @@ Samlet sett er ledelsesprosesser avgjørende for å sikre at en organisasjon ope
 
 
 # Eksempler på Hovedprosesser
-[0101xx - Organisasjon](https://github.com/dkaaven/OpenSourceISO/blob/main/prosesser/01xxxxx%20-%20Ledelse/0101xx%20-%20Organisasjon/010101%20-%20Om%20bedriften/README.md)
+[0101xx - Organisasjon](https://github.com/dkaaven/OpenSourceISO/blob/main/prosesser/01xxxxx%20-%20Ledelse/0101xx%20-%20Organisasjon/README.md)
