@@ -13,3 +13,7 @@ Ledelsesprosesser er nødvendige fordi de:
 * Driver Kontinuerlig Forbedring: De legger til rette for regelmessig vurdering og forbedring av organisasjonens prosesser og ytelse.
 
 Samlet sett er ledelsesprosesser avgjørende for å sikre at en organisasjon opererer i tråd med sine strategiske mål, oppfyller kravene i relevante standarder, og kontinuerlig forbedrer sin ytelse og effektivitet.
+
+
+# Eksempler på Hovedprosesser
+[0101xx - Organisasjon](https://github.com/dkaaven/OpenSourceISO/blob/main/prosesser/01xxxxx%20-%20Ledelse/0101xx%20-%20Organisasjon/010101%20-%20Om%20bedriften/README.md)
