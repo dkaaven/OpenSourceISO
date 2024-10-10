@@ -1,7 +1,9 @@
-#Hva er Ledelsesprosesser? 
+#Hva er Ledelsesprosesser?
+
 Ledelsesprosesser er de overordnede aktivitetene og retningslinjene som styrer, planlegger og kontrollerer organisasjonens operasjoner. Disse prosessene sikrer at organisasjonen har en klar retning, oppfyller sine mål og opererer effektivt og i samsvar med relevante standarder.
 
-#Hvorfor har vi Ledelsesprosesser? 
+#Hvorfor har vi Ledelsesprosesser?
+
 Ledelsesprosesser er nødvendige fordi de:
 
 * Setter Retning: De fastsetter organisasjonens visjon, strategi og mål, og gir en klar retning for alle ansatte.
