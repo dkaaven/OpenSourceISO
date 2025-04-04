@@ -14,5 +14,5 @@ Dette gir retning og mening til kvalitetsarbeidet, og hjelper alle i virksomhete
 > **Tips:** Dette er grunnmuren din. Bruk tid her, diskuter gjerne i teamet, og sørg for at det føles riktig for din virksomhet.
 
 ## Neste steg
-[02 Hva vi gjør](0.%20Kom%20igang/02%20Hva%20vi%20gjør/README.md)  
+[02 Hva vi gjør](/0.%20Kom%20igang/02%20Hva%20vi%20gjør/README.md)  
 

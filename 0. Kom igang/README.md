@@ -6,12 +6,14 @@ Målet med denne guiden er å hjelpe små og mellomstore virksomheter til å eta
 
 Vi starter med å definere hvem vi er, hva vi gjør og hvor vi vil. Dette gir tydelighet for ansatte, kunder og samarbeidspartnere, og er grunnmuren for kvalitetsarbeidet.
 
-## Innhold
+## 0.1 Hvem vi er
 
 - [0.1 Visjon](0.1%20Visjon.md)
 - [0.2 Misjon](0.2%20Misjon.md)
 - [0.3 Verdier](0.3%20Verdier.md)
 - [0.4 Mål](0.4%20Mål.md)
+
+## 0.2 
 
 > **Tips:** Ta deg tid til hvert punkt. Det er bedre å bruke litt ekstra tid her, så har du et solid fundament for alt videre arbeid!
 

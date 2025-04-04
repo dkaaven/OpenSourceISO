@@ -17,5 +17,5 @@ Dette gir oss ikke bare grunnlaget for dokumentasjonen i styringssystemet, men o
 
 > **Tips:** Dette kapittelet er en god anledning til å involvere flere nøkkelpersoner i virksomheten. De som jobber med kundene, produktene og prosessene hver dag, har ofte verdifull innsikt!
 
-# Neste steg
-[03 Hva forventes av oss](0.%20Kom%20igang/03%20Hva%20forventes%20av%20oss/README.md)
+## Neste steg
+[03 Hva forventes av oss](/0.%20Kom%20igang/03%20Hva%20forventes%20av%20oss/README.md)
