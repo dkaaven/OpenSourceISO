@@ -1,23 +1,18 @@
-# Kom igang
-Kvalitetsstyring begynner med å definere hvem vi er, hva vi gjør og hvor vi ønsker å nå.
+# Kom i gang med ISO 9001 Kvalitetsstyringssystem
 
-For å gjøre dette tydelig for oss selv, våre ansatte og alle utenfor er det viktig å formalisere det.
-Her er det viktig å bruke den tiden som trengs for å få det tydelig fram.
+Velkommen til denne åpne guiden for å bygge et kvalitetsstyringssystem i henhold til ISO 9001-standarden.
 
-# Visjon
-Visjonen er idealbildet for det vår bedrift skal være. Det skal være i prinsipp være uoppnåelig, men det er ledestjernen i alt vi gjør og alt vi vil være.
+Målet med denne guiden er å hjelpe små og mellomstore virksomheter til å etablere sitt eget kvalitetssystem, tilpasset sin drift, slik at de kan oppnå ISO 9001-sertifisering om de ønsker.
 
-[0.1 Visjon](https://github.com/dkaaven/OpenSourceISO/blob/main/0.%20Kom%20igang/0.1%20Visjon.md)
+Vi starter med å definere hvem vi er, hva vi gjør og hvor vi vil. Dette gir tydelighet for ansatte, kunder og samarbeidspartnere, og er grunnmuren for kvalitetsarbeidet.
 
-# Misjon
-Vår misjon er vårt verdibilde, hva vi er her for å gjøre for våre kunder. Det er 
+## Innhold
 
-## Misjonserklæring
-Hva er din historie, fortelling, heis-pitch? Hvordan beskriver du din Misjon slik at andre vil være med deg på reisen?
+- [0.1 Visjon](0.1%20Visjon.md)
+- [0.2 Misjon](0.2%20Misjon.md)
+- [0.3 Verdier](0.3%20Verdier.md)
+- [0.4 Mål](0.4%20Mål.md)
 
-[0.2 Misjon](https://github.com/dkaaven/OpenSourceISO/blob/main/0.%20Kom%20igang/0.1%20Misjon.md)
+> **Tips:** Ta deg tid til hvert punkt. Det er bedre å bruke litt ekstra tid her, så har du et solid fundament for alt videre arbeid!
 
-# Verdier
-
-#Mål
-
+Når du er ferdig med dette kapittelet, er du klar for neste steg i kvalitetsreisen.
