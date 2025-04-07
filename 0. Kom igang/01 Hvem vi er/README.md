@@ -6,10 +6,10 @@ Dette gir retning og mening til kvalitetsarbeidet, og hjelper alle i virksomhete
 
 ## Innhold
 
-- [0.1.1 Visjon](0.1.1%20Visjon.md)
-- [0.1.2 Misjon](0.1.2%20Misjon.md)
-- [0.1.3 Verdier](0.1.3%20Verdier.md)
-- [0.1.4 Mål](0.1.4%20Mål.md)
+- [01.1 Visjon](01.1%20Visjon.md)
+- [01.2 Misjon](01.2%20Misjon.md)
+- [01.3 Verdier](01.3%20Verdier.md)
+- [01.4 Mål](01.4%20Mål.md)
 
 > **Tips:** Dette er grunnmuren din. Bruk tid her, diskuter gjerne i teamet, og sørg for at det føles riktig for din virksomhet.
 
