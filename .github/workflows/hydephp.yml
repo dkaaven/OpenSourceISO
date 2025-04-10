@@ -1,5 +1,5 @@
 name: Build Documentation from Readme
- 
+
 on:
   push:
     branches: [ "main" ] # Make sure this matches your default branch
@@ -15,18 +15,23 @@ jobs:
  
     steps:
       - uses: actions/checkout@v3
+      - uses: hydephp/action@master
+        with:
+          deploy-to: pages
+          directory: "0. Kom igang" 
+          upload-artifact: true
  
-      - name: Create site from Readme
-        run: |
-          # Here we set up the HydePHP source files to use the README.md as the index page
-          mkdir _pages
-          mv README.md _pages/index.md
-          rm -rf !'_pages'
+      # - name: Create site from Readme
+      #   run: |
+      #     # Here we set up the HydePHP source files to use the README.md as the index page
+      #     mkdir _pages
+      #     mv 0. Kom igang/README.md _pages/index.md
+      #     rm -rf !'_pages'
  
       - name: Create Hyde config
         run: |
           # Configure the site name
-          echo 'name: My Site Name' >> hyde.yml
+          echo 'name: OpenSource ISO' >> hyde.yml
           # Optionally, load styles from the CDN
           echo 'load_app_styles_from_cdn: true' >> hyde.yml
           # Optionally, use Highlight.js for syntax highlighting
