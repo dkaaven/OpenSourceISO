@@ -18,7 +18,7 @@ jobs:
       - uses: hydephp/action@master
         with:
           deploy-to: pages
-          directory: "0. Kom igang" 
+          directory: 0. Kom igang 
           upload-artifact: true
  
       # - name: Create site from Readme
