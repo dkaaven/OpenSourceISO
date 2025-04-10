@@ -1,0 +1,28 @@
+            - name: Build HydePHP Site
+  # You may pin to the exact commit or the version.
+  # uses: hydephp/action@072baf40f3127ade31a549f64fc4d35bc2c8b392
+  uses: hydephp/action@v2.0.0
+  with:
+    # Enable debug mode
+    debug: # optional, default is false
+    # Specify what to do with the compiled site. Options are: [artifact, pages]
+    deploy-to: # default is artifact
+    # Upload the compiled site as an artifact
+    upload-artifact: # optional, default is false
+    # The framework version of HydePHP to install (only applicable when using archive install strategy)
+    framework-version: # optional, default is latest
+    # The project root directory
+    directory: # optional, default is .
+    # List of lines to add to the `hyde.yml` config file
+    config: # optional, default is 
+    # [Deprecated] Set the `SITE_NAME` environment variable. Use the `env` input instead with `SITE_NAME=value`
+    env-site-name: # optional
+    # [Deprecated] Set the `SITE_URL` environment variable. Use the `env` input instead with `SITE_URL=value`
+    env-site-url: # optional
+    # [Deprecated] Set the `TORCHLIGHT_TOKEN` environment variable. Use the `env` input instead with `TORCHLIGHT_TOKEN=value`
+    env-torchlight-token: # optional
+    # Environment variables in KEY=VALUE format (one per line)
+    env: # optional, default is 
+    # Name of the artifact to upload (defaults to "build")
+    artifact-name: # optional, default is build
+          
