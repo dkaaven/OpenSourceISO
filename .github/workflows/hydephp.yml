@@ -1,0 +1,35 @@
+name: Build Documentation from Readme
+
+on:
+  push:
+    branches: [ "main" ] # Make sure this matches your default branch
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+ 
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+ 
+    steps:
+      - uses: actions/checkout@v3
+      - uses: hydephp/action@config-array
+        with:
+          config: |
+            # Enter key-value Yaml here:
+            name: OpenSource ISO
+            url: ${{ https://dkaaven.github.io/OpenSourceISO }}
+      - uses: hydephp/action@master
+        with:
+          deploy-to: pages
+          directory: 0. Kom igang 
+          upload-artifact: true
+ 
+      # - name: Create site from Readme
+      #   run: |
+      #     # Here we set up the HydePHP source files to use the README.md as the index page
+      #     mkdir _pages
+      #     mv 0. Kom igang/README.md _pages/index.md
+      #     rm -rf !'_pages'
