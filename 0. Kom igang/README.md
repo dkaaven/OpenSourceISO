@@ -7,10 +7,8 @@ Guiden er bygget for å være enkel, forståelig, og praktisk — uansett om du 
 
 ## Innhold
 
-### 01 Hvem vi er
+### [0.1 Hvem vi er](0.1%20Hvem%20vi%20er/README.md)
 Bli tydelig på hvem dere er som virksomhet.
-- [01 Hvem vi er - README](01%20Hvem%20vi%20er/README.md)
-
 ### 02 Hva vi gjør
 Beskriv hvordan dere skaper verdi for kundene.
 - [02 Hva vi gjør - README](02%20Hva%20vi%20gj%C3%B8r/README.md)
