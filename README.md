@@ -14,9 +14,7 @@ Guiden hjelper deg med å:
 
 ### Start her
 
-👉 [01 Hvem vi er](0.%20Kom%20igang/01%20Hvem%20vi%20er/README.md)  
-👉 [02 Hva vi gjør](0.%20Kom%20igang/02%20Hva%20vi%20gjør/README.md)  
-👉 [03 Hva forventes av oss](0.%20Kom%20igang/03%20Hva%20forventes%20av%20oss/README.md)
+👉 [0. Kom igang](0.%20Kom%20igang/README.md)
 
 ## Målsetning
 
