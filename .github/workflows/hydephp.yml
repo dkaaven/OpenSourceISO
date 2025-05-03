@@ -23,7 +23,7 @@ jobs:
       - uses: hydephp/action@master
         with:
           deploy-to: pages
-          directory: / 
+          directory: _pages/
           upload-artifact: true
       - name: Create site from .md
         run: |
