@@ -1,5 +1,4 @@
-name: Build Documentation from Readme
-
+name: Build Site
 on:
   push:
     branches: [ "main" ] # Make sure this matches your default branch
@@ -24,8 +23,12 @@ jobs:
       - uses: hydephp/action@master
         with:
           deploy-to: pages
-          directory: 0. Kom igang 
+          directory: / 
           upload-artifact: true
+      - name: Create site from .md
+        run: |
+          mkdir _pages
+          cp * _pages/*
  
       # - name: Create site from Readme
       #   run: |
