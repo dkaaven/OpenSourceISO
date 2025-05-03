@@ -28,7 +28,7 @@ jobs:
       - name: Create site from .md
         run: |
           mkdir _pages
-          cp * _pages/*
+          cp *.md _pages/*
  
       # - name: Create site from Readme
       #   run: |
