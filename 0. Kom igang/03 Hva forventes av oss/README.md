@@ -1,22 +1,42 @@
-# 03 Hva forventes av oss
+# 0.3 Hva forventes av oss  
+*(Forventninger, krav og det vi må være forberedt på)*
 
 ## Om dette kapittelet
 
-Nå som vi vet hvem vi er og hva vi gjør, er det på tide å se utover:
+Nå som vi har sett på hvem vi er og hva vi gjør, må vi løfte blikket og spørre:
 
-- Hvem har forventninger til oss?
+- Hvem stiller krav til oss?
 - Hva forventer de?
-- Hvilke regler må vi forholde oss til?
-- Og ikke minst: Hva kan gå galt – og hva kan vi få til?
+- Hvilke regler må vi følge?
+- Hva kan gå galt?
 
-Dette kapittelet gir oss oversikt over krav, forventninger og risikobilde for virksomheten. Det gir et godt grunnlag for å sette mål og lage gode rutiner videre i arbeidet.
+Dette kapittelet handler om å forstå **våre omgivelser**.  
+Vi bruker ikke ISO-språk – vi snakker om folk, regler og situasjoner vi møter i hverdagen.
+
+---
 
 ## Innhold
 
-- [03.1 Hvem har forventninger til oss? (Interessenter)](03.1%20Hvem%20har%20forventninger%20til%20oss%3F.md)
-- [03.2 Hva forventer de av oss? (Behov og forventninger)](03.2%20Hva%20forventer%20de%20av%20oss%3F.md)
-- [03.3 Hvilke regler må vi følge? (Lover og krav)](03.3%20Hvilke%20regler%20m%C3%A5%20vi%20f%C3%B8lge%3F.md)
-- [03.4 Hva kan gå galt? Hva kan vi få til? (Risikovurdering)](03.4%20Hva%20kan%20g%C3%A5%20galt%3F%20Hva%20kan%20vi%20f%C3%A5%20til%3F.md)
+| Del | Tema | Hva du lærer |
+|-----|------|---------------|
+| [0.3.1 De som har forventninger](0.3.1%20De%20som%20har%20forventninger.md) | Interessenter | Du kartlegger hvem som har krav eller forventninger til virksomheten |
+| [0.3.2 Hva de forventer](0.3.2%20Hva%20de%20forventer.md) | Behov og forventninger | Du skriver ned hva disse interessentene faktisk forventer |
+| [0.3.3 Krav vi må forholde oss til](0.3.3%20Krav%20vi%20m%C3%A5%20forholde%20oss%20til.md) | Lover, regler og avtaler | Du lager en oversikt over hvilke regler som gjelder for dere |
+| [0.3.4 Det som kan gå galt](0.3.4%20Det%20som%20kan%20g%C3%A5%20galt.md) | Risiko og muligheter | Du reflekterer over hva som kan gå galt – og hva dere kan gjøre med det |
 
-> **Tips:** Involver gjerne hele teamet i dette arbeidet. Ulike perspektiver gir et bedre bilde!
+---
 
+## Tips
+
+- Du trenger ikke ha alle svarene – begynn med det dere vet
+- Snakk med de ansatte – de merker forventningene i praksis
+- Dette kapittelet gir et godt grunnlag for å jobbe med mål og forbedringer senere
+
+---
+
+## Neste steg
+
+Når du har oversikt over hva som forventes av dere, er du klar for:
+
+👉 [0.4 Hvordan vi forbedrer oss](../04%20Hvordan%20vi%20forbedrer%20oss/README.md)  
+Her begynner arbeidet med mål, oppfølging og hvordan dere lærer av erfaring.
