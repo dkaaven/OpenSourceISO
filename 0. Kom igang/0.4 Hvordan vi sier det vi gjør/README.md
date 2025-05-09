@@ -1,46 +1,44 @@
 # 0.4 Hvordan vi sier det vi gjør  
-*(Hvordan vi holder oversikt, oppdaterer og deler dokumentene våre)*
+*(Hvordan vi beskriver arbeidsmåten vår – så det gir mening og verdi)*
 
 ## Om dette kapittelet
 
-Gode dokumenter hjelper oss å jobbe ryddig og forutsigbart.  
-Men dokumentene må også være:
-- Enkle å finne
-- Oppdaterte
-- Tydelig godkjente
+Når vi sier “vi gjør som vi sier”, må vi først ha **sagt hva vi gjør** – tydelig og forståelig.
 
-Dette kapittelet handler om hvordan vi **holder orden**, **holder dokumenter oppdatert**, **deler dem** – og **vet hva som gjelder**.
+Dette kapittelet handler om:
+- Hva som faktisk er nyttig å skrive ned
+- Hvordan vi lager beskrivelser som blir brukt
+- Hvordan vi sørger for at dokumentene er riktige
 
-> Dette gjelder uansett om dere bruker mapper, Teams, SharePoint eller papir – det handler om struktur og ansvar.
+Det handler ikke om “dokumentstyring” – men om **å hjelpe folk til å jobbe riktig**.
 
 ---
 
 ## Innhold
 
-| Del | Tema | Hva du lærer |
-|-----|------|---------------|
-| [0.4.1 Hvordan vi holder orden](0.4.1%20Hvordan%20vi%20holder%20orden.md) | Struktur | Hvordan dere navngir, nummererer og organiserer dokumentene |
-| [0.4.2 Hvordan vi holder dem oppdatert](0.4.2%20Hvordan%20vi%20holder%20dem%20oppdatert.md) | Versjon og revisjon | Hvordan dere vet at dokumentene er riktige og oppdaterte |
-| [0.4.3 Hvordan vi deler](0.4.3%20Hvordan%20vi%20deler.md) | Tilgjengelighet | Hvordan dere gir tilgang til dokumenter for de som trenger dem |
-| [0.4.4 Hvordan vi vet hva som gjelder](0.4.4%20Hvordan%20vi%20vet%20hva%20som%20gjelder.md) | Godkjenning og gyldighet | Hva et gyldig dokument skal inneholde, og hvordan dere vet at det gjelder |
+| Del | Tittel | Hva du lærer |
+|-----|--------|---------------|
+| [0.4.1 Hva som bør beskrives](0.4.1%20Hva%20som%20b%C3%B8r%20beskrives.md) | Hva som er nyttig å forklare skriftlig | Du velger ut hvilke rutiner og arbeidsmåter det er lurt å dokumentere |
+| [0.4.2 Hvordan vi beskriver det vi gjør](0.4.2%20Hvordan%20vi%20beskriver%20det%20vi%20gj%C3%B8r.md) | Hvordan vi skriver tydelig og enkelt | Du lærer å lage nyttige beskrivelser som folk faktisk forstår og bruker |
+| [0.4.3 Hvordan vi bruker dokumentene](0.4.3%20Hvordan%20vi%20bruker%20dokumentene.md) | Hvordan dokumentene blir en del av hverdagen | Du ser på hvordan dokumentene brukes i praksis – ikke bare lagres |
+| [0.4.4 Hvordan vi vet at det er riktig](0.4.4%20Hvordan%20vi%20vet%20at%20det%20er%20riktig.md) | Hvordan vi vet at innholdet stemmer | Du får hjelp til å kontrollere og oppdatere det som er skrevet – når det trengs |
 
 ---
 
 ## Tips
 
-- Ikke lag et avansert system – start enkelt og gjør det lett å bruke
-- Bruk dokumentnummer og tydelige titler – det gjør alt lettere
-- Del kun det som er gjeldende – og merk utkast tydelig
-- Lag systemet deres slik at det kan flyttes til f.eks. SharePoint senere
+- Du trenger ikke beskrive alt – bare det som skaper trygghet og forutsigbarhet
+- Tenk på dokumentasjon som **en hjelp i hverdagen**, ikke en plikt
+- Bruk dokumentene aktivt: i opplæring, møter og når ting går galt
 
 ---
 
 ## Neste steg
 
-Etter dette kapittelet vet dere:
-- Hvordan dere lager og organiserer dokumenter
-- Hvordan dere holder dem oppdatert og tydelige
-- Hvordan dere sikrer at alle bruker riktig dokument
+Nå har dere:
+- Valgt hva som skal beskrives
+- Skrevet det enkelt og forståelig
+- Begynt å bruke dokumentene i praksis
 
 👉 Neste steg: [0.5 Hvordan vi gjør som vi sier](../05%20Hvordan%20vi%20gj%C3%B8r%20som%20vi%20sier/README.md)  
-Her begynner vi å jobbe med kontroll, forbedring og involvering.
+Her handler det om hvordan vi følger opp – og sikrer at det vi har sagt, faktisk blir gjort.
